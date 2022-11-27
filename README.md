@@ -4,7 +4,7 @@
 - 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning ReactJS.
 - 👩 In my free time I read books.
-- 📫 Reach out to me at LinkedIn [Priya Survase](www.linkedin.com/in/priya-survase).
+- 📫 Reach out to me at LinkedIn [Priya Survase](https://www.linkedin.com/in/priya-survase).
 
 ### Languages and Tools
 
