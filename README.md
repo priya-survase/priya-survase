@@ -1,4 +1,4 @@
-### ABOUT ME
+### About Me
 
 - 👋 Hi, I’m **Priya**
 - 👀 I’m interested in Front end Development
